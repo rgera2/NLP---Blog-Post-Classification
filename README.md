@@ -22,7 +22,7 @@ Naive Bayes, SVM, Random Forest, Logistic Regression
 Compared the models based on Test Accuracy with baseline model w.r.t. number of examples.
 
 # Conclusion
-Demonstrated feature selection and impacts
-Multinomial Naive Bayes outperformed
-Performance affected by quantity and quality of data
-With less amount of data, tf-idf performed better than some popular word embeddings like GloVe and Doc2Vec
+1. Demonstrated feature selection and impacts
+2. Multinomial Naive Bayes outperformed
+3. Performance affected by quantity and quality of data
+4. With less amount of data, tf-idf performed better than some popular word embeddings like GloVe and Doc2Vec
